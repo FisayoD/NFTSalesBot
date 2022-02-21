@@ -1,0 +1,18 @@
+{
+  "name": "nft-sales-bot",
+  "version": "1.0.0",
+  "description": "discord sales bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fifi",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex/js": "^4.12.0",
+    "@solana/web3.js": "^1.35.0",
+    "axios": "^0.26.0",
+    "date-fns": "^2.28.0",
+    "dotenv": "^10.0.0"
+  }
+}
